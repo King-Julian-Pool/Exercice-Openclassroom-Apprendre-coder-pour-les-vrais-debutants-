@@ -1,0 +1,13 @@
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\bin\Debug\netcoreapp3.1\SayMyName.exe
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\bin\Debug\netcoreapp3.1\SayMyName.deps.json
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\bin\Debug\netcoreapp3.1\SayMyName.runtimeconfig.json
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\bin\Debug\netcoreapp3.1\SayMyName.runtimeconfig.dev.json
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\bin\Debug\netcoreapp3.1\SayMyName.dll
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\bin\Debug\netcoreapp3.1\SayMyName.pdb
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.AssemblyInfoInputs.cache
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.AssemblyInfo.cs
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.dll
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.pdb
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.genruntimeconfig.cache
+C:\Users\cleme\OneDrive\Documents\Visual Studio 2019\Projects\GettingStarted\SayMyName\obj\Debug\netcoreapp3.1\SayMyName.csprojAssemblyReference.cache
